@@ -9,7 +9,7 @@ setup(
     [console_scripts]
     jformat=jformat.main:main
     """,
-    author="Alfredo Deza",
-    author_email="alfredo@deza.pe",
+    author="Shuran Xu",
+    author_email="xushuran2012@gmail.com",
     packages=find_packages(),
 )
