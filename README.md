@@ -26,6 +26,7 @@ The repository structures is as follows:
 ├── setup.py 
 └── tests     
 └── test_main.py  
+└── Coursera YLTJZ88UXXK2.pdf
 ```
 
 THere are 3 different ways used to create Python tools, from the very basic (with `sys.argv`) to using a framework that comes with Python (`argparse`), and finally the more involved, by using an external library like [Click](https://click.palletsprojects.com/en/latest/). And the [examples](examples/) directory has the `sys.argv` and `argparse` code, while the rest of the repository contains all the files for automation, packaging, testing, and code using the Click framework.
